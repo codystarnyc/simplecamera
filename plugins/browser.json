@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.camera"
+    },
+    "com-snaphappi-plugin-camera-roll-location": {
+      "PACKAGE_NAME": "com.example.camera"
+    },
+    "cordova-plugin-android-photo": {
+      "PACKAGE_NAME": "com.example.camera"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.camera"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.camera"
+    }
+  },
+  "dependent_plugins": {}
+}
